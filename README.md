@@ -61,3 +61,7 @@
 
 ### PensilScrapCompare
 스크랩을 얼마나 모았는지 세주는 모드입니다.
+
+### PensilQuickChat
+영어에 어색한 사용자가 쉽게 소통하도록 만든 모드입니다.
+Shift + F8 (or F8)로 메뉴를 열어 마우스로 문구를 선택합니다.
